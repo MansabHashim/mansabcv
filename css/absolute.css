@@ -1,0 +1,42 @@
+div{height: 100px; width: 100px;}
+body{margin: 0;}
+
+.container{ position: relative;
+    height: 300px; width: 300px; background-color: gray;}
+
+
+.rd{background-color: red;
+position: absolute;
+left: 100px; top: 100px;}
+
+
+.bl{background-color: blue;
+     position: absolute;
+     top: 200px;
+     left: 200px;
+    }
+
+
+.yel{background-color: yellow; 
+    position: fixed; 
+    top: 0;
+}
+
+/* *********************************************************************** */
+
+#rd{background-color: red;
+    position: absolute;
+    left: 100px; top: 320px;}
+    
+    
+#bl{background-color: blue;
+         position: absolute;
+         top: 320px;
+         left: 200px;
+        }
+    
+    
+#yel{background-color: yellow; 
+        position: absolute; 
+        top: 320px; left: 0px;
+    }

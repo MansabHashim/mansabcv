@@ -1,0 +1,22 @@
+.heading{display: inline; background-color: red;}
+#hhh{background-color: orange;}
+p{color: white; background-color:black;}
+
+/* ********************************************************** */
+
+
+.khan{text-decoration: underline;}
+#has{color: red;}
+
+/* ********************************************************** */
+
+img{height: 19%; width: 19%; }
+.pic{display: block;}
+
+a{border: solid black; border-radius: 100px; background-color: orange; color: rgb(75, 10, 239);}
+.links{font-size: 50px; padding: 20px; margin: 30px; display: inline-block; text-align: center;} 
+
+/* ****************************************************** */
+
+.hidden{display: inherit;
+display: hidden;}

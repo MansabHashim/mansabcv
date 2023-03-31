@@ -1,0 +1,80 @@
+#Man{height: 200px;
+     width: 200px;
+      background-color: red;
+      display: inline-block;
+      color: white;
+     text-align: center;
+     position: relative;
+     left: 27%;
+
+    }
+
+#ali{height: 200px;
+     width: 200px;
+      background-color: blue;
+      display: inline-block;
+      color: white;
+     text-align: center;
+     position: relative;
+     
+
+    }
+
+#Hash{height: 200px;
+     width: 200px;
+      background-color:green;
+      display: inline-block;
+      color: white;
+     text-align: center;
+     position: relative;
+     right: 27%;}
+/* ****************************************************************************/ 
+
+#kh{background-color: yellow;
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    color: black;
+   text-align: center;
+   position: relative;
+}
+
+.MHK{
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    color: black;
+   text-align: center;
+   position: relative;
+}
+
+.MH{position: relative;
+left: 5%;}
+
+.AL{position: relative;
+left: 1px;}
+
+.HS{position: relative;
+right: 5%;}
+
+.kh{position: relative;
+right: 10%;}
+
+/* <!-- ****************************************************************************** --> */
+
+.M{position: relative;
+top: 60px; left: 250px;}
+
+.A{position: relative;
+bottom: 100px; left: 150px;}
+
+.H{position: relative;
+bottom: 140px; left: 50px;}
+
+.KHK{position: relative;
+bottom: 300px;}
+
+
+hr{bottom: 300px;}
+
+/* <!-- ****************************************************************************** --> */
